@@ -1,0 +1,70 @@
+
+.container.data-v-32ee01ff {
+  padding: 40rpx 60rpx;  /* 增加整体左右内边距 */
+  background-color: #fff;
+  max-width: 1200rpx;    /* 限制最大宽度 */
+  margin: 0 auto;        /* 居中显示 */
+}
+.input-output-container.data-v-32ee01ff {
+  margin: 20rpx 0;       /* 修改上下间距，移除左右间距 */
+}
+.section-title.data-v-32ee01ff {
+  font-size: 28rpx;
+  font-weight: bold;
+  color: #333;
+  margin: 24rpx 0;       /* 修改为上下间距 */
+  line-height: 60rpx;
+}
+.submit-button.data-v-32ee01ff {
+  width: 50%;
+  margin: 32rpx auto;    /* 修改为上下间距，自动左右居中 */
+  display: block;        /* 确保按钮居中 */
+}
+.code-input.data-v-32ee01ff,
+.output-box.data-v-32ee01ff {
+  width: 100%;
+  min-height: 200rpx;
+  padding: 24rpx;        /* 增加内边距 */
+  background-color: #fff;
+  border: 1rpx solid #d9d9d9;
+  border-radius: 8rpx;
+  font-size: 28rpx;
+  box-sizing: border-box; /* 确保padding不会影响总宽度 */
+}
+.image-box.data-v-32ee01ff {
+  width: 100%;
+  min-height: 300rpx;
+  margin-top: 32rpx;
+  padding: 32rpx;
+  background-color: #f5f5f5;  /* 稍微调亮背景色 */
+  border: 1rpx dashed #d9d9d9;
+  border-radius: 8rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 28rpx;
+  color: #666;
+  font-style: italic;
+  box-sizing: border-box;
+}
+.file-item.data-v-32ee01ff {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20rpx;        /* 增加内边距 */
+  background-color: #f5f5f5;
+  border-radius: 8rpx;
+  margin: 16rpx 0;       /* 修改为上下间距 */
+}
+.remove-btn.data-v-32ee01ff {
+  color: #ff4d4f;
+  font-size: 32rpx;
+  padding: 0 20rpx;      /* 增加左右内边距 */
+  cursor: pointer;
+}
+.footer.data-v-32ee01ff {
+  width: 100%;
+  text-align: center;
+  margin-top: 60rpx;     /* 增加与上方内容的间距 */
+  padding-bottom: 40rpx; /* 增加底部间距 */
+}

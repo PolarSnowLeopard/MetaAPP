@@ -1,0 +1,8 @@
+
+.container.data-v-3ddaf6af {
+  padding: 20rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
